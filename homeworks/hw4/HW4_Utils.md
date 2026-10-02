@@ -197,6 +197,6 @@ sequences: list[str] = ['ATG', 'TTC']
 - Сделайте `push` этой ветки в репозиторий на `GitHub`
 - На `GitHub` откройте pull-request из этой ветки в ветку `main`
 
-- Прикрепите ссылку на свой pull-request в [гугл-форму](ссылка)
+- Прикрепите ссылку на свой pull-request в [гугл-форму](https://docs.google.com/forms/d/e/1FAIpQLSfNSprES_IKHkvttdCfADQD_5TBKg0XkK4F2wEpj0IqmaayGg/viewform?usp=publish-editor)
 
 Удачи! ✨✨
